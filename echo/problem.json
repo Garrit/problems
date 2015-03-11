@@ -1,0 +1,22 @@
+{
+    "name": "Echo",
+    "description": "README.md",
+    "samples": [
+        {
+            "input": "sample.in",
+            "output": "sample.out"
+        }
+    ],
+    "cases": [
+        {
+            "input": "case1.in",
+            "output": "case1.out",
+            "timeLimit": 2
+        },
+        {
+            "input": "case2.in",
+            "output": "case2.out",
+            "timeLimit": 2
+        }
+    ]
+}
