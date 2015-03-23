@@ -1,6 +1,6 @@
 {
     "name": "Echo",
-    "description": "README.md",
+    "description_file": "README.md",
     "samples": [
         {
             "input": "sample.in",
