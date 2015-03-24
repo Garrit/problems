@@ -1,21 +1,21 @@
 {
     "name": "echo",
-    "description_file": "README.md",
+    "descriptionFile": "README.md",
     "samples": [
         {
-            "input": "sample.in",
-            "output": "sample.out"
+            "inputFile": "samples/sample.in",
+            "outputFile": "samples/sample.out"
         }
     ],
     "cases": [
         {
-            "input": "case1.in",
-            "output": "case1.out",
+            "inputFile": "cases/case1.in",
+            "outputFile": "cases/case1.out",
             "timeLimit": 2
         },
         {
-            "input": "case2.in",
-            "output": "case2.out",
+            "inputFile": "cases/case2.in",
+            "outputFile": "cases/case2.out",
             "timeLimit": 2
         }
     ]
