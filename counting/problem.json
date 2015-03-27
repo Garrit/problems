@@ -1,0 +1,19 @@
+{
+    "name": "counting",
+    "descriptionFile": "README.md",
+    "samples": [
+        {
+            "name": "Simple",
+            "inputFile": "samples/sample.in",
+            "outputFile": "samples/sample.out"
+        }
+    ],
+    "cases": [
+        {
+            "name": "Secret Case",
+            "inputFile": "cases/case1.in",
+            "outputFile": "cases/case1.out",
+            "timeLimit": 4
+        }
+    ]
+}
